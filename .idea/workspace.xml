@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f0d03dc-e889-4e0e-b361-fe6418141f52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/DINPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/DINPro-bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/styles.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/background-1-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/background-2-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/background-3-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/big-boot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/big-shoe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/cta-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/icon-addtocart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/icon-back-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/icon-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/icon-close-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/icon-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/icon-request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/pattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/product-mini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/reserve-logo-black-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/reserve-logo-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/reserve-logo-gray-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/reserve-logo-white-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/reserve-logo-white-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/reserve-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/video-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/jacket1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/associate-hub-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/backbone.babysitter/backbone.babysitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/backbone.wreqr/backbone.wreqr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/backbone/backbone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/fastclick/fastclick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/foundation/foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/foundation/foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/jquery-placeholder/jquery.placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/jquery.cookie/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/jquery.keyframes/jquery.keyframes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/marionette/backbone.marionette.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/a-download.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/audio-audiodata-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/audio-webaudio-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/battery-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/battery-level.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/blob-constructor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/canvas-todataurl-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/contenteditable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/contentsecuritypolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/contextmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/cors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-backgroundposition-shorthand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-backgroundposition-xy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-backgroundrepeat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-backgroundsizecover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-boxsizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-calc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-cubicbezierrange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-displayrunin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-displaytable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-hyphens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-lastchild.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-mediaqueries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-objectfit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-overflow-scrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-pointerevents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-positionsticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-regions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-remunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-scrollbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-subpixelfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-supports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-userselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-vhunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-vmaxunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-vminunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/css-vwunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/custom-protocol-handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/dataview-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/dom-classlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/dom-createElement-attrs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/dom-dataset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/dom-microdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-datalist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-output.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-progress-meter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/elem-track.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/emoji.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/es5-strictmode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/event-deviceorientation-motion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/exif-orientation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/file-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/file-filesystem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/forms-fileinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/forms-formattribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/forms-inputnumber-l10n.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/forms-placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/forms-speechinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/forms-validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/fullscreen-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/gamepad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/getusermedia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/ie8compat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/iframe-sandbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/iframe-seamless.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/iframe-srcdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/img-apng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/img-webp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/lists-reversed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/mathml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/network-connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/network-eventsource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/network-xhr2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/performance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/pointerlock-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/quota-management-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/requestanimationframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/script-async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/script-defer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/style-scoped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/svg-filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/unicode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/url-data-uri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/userdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/vibration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/web-intents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/webgl-extensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/websockets-binary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/window-framed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/workers-blobworkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/workers-dataworkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/feature-detects/workers-sharedworkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/grunt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/media/Modernizr 2 Logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/media/Modernizr 2 Logo.eps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/media/Modernizr 2 Logo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/media/Modernizr 2 Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/media/Modernizr 2 Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/Windsong-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/Windsong-webfont.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/Windsong-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/Windsong-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/Windsong-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/apng_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/before-after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/form_validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/ga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/green5x5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/hashchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/mathml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/mathml_ref.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/modernizr-1.7.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/png_alpha_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/pushstate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/red30x30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/ruby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/stroked-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/svg-html-blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/svg-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/svg-img.svg.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/svg_blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/text-shadow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/text-shadow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/windsong_font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/caniuse_files/xhtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/dumpdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/lib/detect-global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/lib/jquery-1.7b2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/lib/jsonselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/lib/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/lib/uaparser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/unit-caniuse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/js/unit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/qunit/qunit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/qunit/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/modernizr/test/qunit/run-qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/signalr/jquery.signalR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/sketchjs/sketch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lib/underscore/underscore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/transition-region.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/views.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/shoes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/DINPro-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/DINPro-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/DINPro-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/DINPro-Medium 2.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/DINPro-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/DINPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icon-addtocart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icon-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icon-close-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icon-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icon-request.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/pattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/products-products-module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1579317376">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="14" />
+          <entry key="js" value="27" />
+          <entry key="json" value="9" />
+          <entry key="md" value="1" />
+          <entry key="yaml" value="2" />
+          <entry key="yarnclean" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="14" />
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="27" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="53" />
+          <entry key="js" value="677" />
+          <entry key="json" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="53" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="677" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/main/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/.renderer-index-template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/builder-effective-config.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/assets/js/lib/jquery/jquery.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <element signature="e#14#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index.html</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/build.js" />
+        <option value="$PROJECT_DIR$/src/app/index.html" />
+        <option value="$PROJECT_DIR$/src/main/index.html" />
+        <option value="$PROJECT_DIR$/src/renderer/app/build.js" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+        <option value="$PROJECT_DIR$/src/main/server.js" />
+        <option value="$PROJECT_DIR$/src/main/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/index.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electron-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-test-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electron-test-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electron-test-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/renderer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f0d03dc-e889-4e0e-b361-fe6418141f52" name="Default Changelist" comment="" />
+      <created>1547691323019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547691323019</updated>
+      <workItem from="1547691324368" duration="8278000" />
+      <workItem from="1547733858211" duration="2982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11260000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19777602" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/main/main.be84350911088b2c3fa1.hot-update.js" />
+    <entry file="file://$PROJECT_DIR$/dist/main/30a16efa4abd6ca3fad5.hot-update.json" />
+    <entry file="file://$PROJECT_DIR$/dist/main/3a104c3193c4455e20ef.hot-update.json" />
+    <entry file="file://$PROJECT_DIR$/dist/main/be84350911088b2c3fa1.hot-update.json" />
+    <entry file="file://$PROJECT_DIR$/dist/main/main.30a16efa4abd6ca3fad5.hot-update.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/index.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/app/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.yarnclean">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/renderer/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/renderer/renderer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/main/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/.renderer-index-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/lib/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/app/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/app/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/builder-effective-config.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#14#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
