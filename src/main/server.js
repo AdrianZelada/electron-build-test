@@ -24,12 +24,12 @@ function Server() {
         app.get('*', function (req, res) {
             const p =path.join(__static, "/index.html")
             if (allowedExt.filter(ext => req.url.indexOf(ext) > 0).length > 0) {
-                res.sendFile(path.resolve(`./app/${req.url}`));
+                res.sendFile(path.resolve(__static,`${req.url}`));
             } else {
                 res.sendFile(path.resolve(p));
             }
         });
-        return app.listen([port], () => {
+        return app.listen(port, () => {
             const url= {
                 path: domain,
                 port: port
